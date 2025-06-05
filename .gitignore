@@ -1,0 +1,47 @@
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# PrestaShop cache
+/var/cache/
+/var/logs/
+/app/cache/
+/app/logs/
+/config/xml/
+/translations/cldr/
+/themes/*/cache/
+
+# PrestaShop konfiguracje tymczasowe
+/config/settings.inc.php
+
+# Composer i node_modules (jeśli używasz npm/yarn)
+vendor/
+/node_modules/
+
+# Dotenv i pliki lokalne
+.env
+.env.local
+*.log
+*.bak
+*.tmp
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Backupy
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.tar.gz
+
+# IDE/editor-specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+pass.txt
+docker-compose.yml
