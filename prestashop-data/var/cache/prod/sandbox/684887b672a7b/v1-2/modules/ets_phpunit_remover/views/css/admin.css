@@ -1,0 +1,18 @@
+.ets-php-unit-clear.actived{
+    opacity: 0.4;
+}
+.ets-php-unit-clearing.hide{
+    display: none;
+}
+.link_othermodules{
+    color: #00a0d2;
+    cursor: pointer;
+    font-weight: bold;
+}
+.ets-copyright{
+    width: 100%;
+    text-align: center;
+}
+.ets-php-unit-clearing{
+    margin-top: 10px;
+}
