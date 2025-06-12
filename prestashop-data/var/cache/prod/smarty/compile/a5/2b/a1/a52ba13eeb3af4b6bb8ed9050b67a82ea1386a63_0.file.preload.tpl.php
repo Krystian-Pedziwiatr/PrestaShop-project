@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-11 22:53:47
+/* Smarty version 4.3.4, created on 2025-06-12 23:18:44
   from '/var/www/html/admin516f36phnm6lye0xir7/themes/default/public/preload.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6849ecdb03f452_33983260',
+  'unifunc' => 'content_684b443403d048_38842808',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6849ecdb03f452_33983260 (Smarty_Internal_Template $_smarty_tpl) {
+function content_684b443403d048_38842808 (Smarty_Internal_Template $_smarty_tpl) {
 ?><link
       rel="preload"
       href="<?php echo $_smarty_tpl->tpl_vars['admin_dir']->value;?>

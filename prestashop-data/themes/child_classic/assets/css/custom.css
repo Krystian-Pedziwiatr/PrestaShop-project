@@ -3,3 +3,60 @@
  * A template should always ship with an empty custom.css
  */
  #header{ background: rgb(255, 255, 255) !important; }
+
+
+ #wrapper{
+    background-color: #f8f8f8;
+ }
+
+
+
+ .carousel .carousel-inner {
+    height: auto !important;
+    border-radius: 15px;
+    box-shadow: 4 2px 5px 0 rgba(0,0,0,.11);
+
+}
+
+.carousel .direction {
+    z-index: auto;
+    display: none;
+}
+
+
+.carousel-inner>.carousel-item>a>img, .carousel-inner>.carousel-item>img, .img-fluid, .img-thumbnail {
+
+    width: 100%;
+    height: auto;
+}
+
+
+#header .header-top {
+    padding: 0rem 0;
+}
+
+
+.header-top-right {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 0;
+  }
+
+
+#header .header-nav #_desktop_contact_link {
+    visibility: hidden;
+}
+
+.popover.sub-menu {
+    width: 30% !important; 
+    justify-content: center; 
+    align-items: center;
+    left: 60%;
+    transform: translateX(-60%);
+    min-width: unset !important;
+    text-align: center;
+  }
+ 
+
+ 

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-11 22:38:14
+/* Smarty version 4.3.4, created on 2025-06-12 23:18:47
   from '/var/www/html/admin516f36phnm6lye0xir7/themes/default/template/controllers/login/layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6849e9363f4705_38029252',
+  'unifunc' => 'content_684b443705d7b7_80835744',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6849e9363f4705_38029252 (Smarty_Internal_Template $_smarty_tpl) {
+function content_684b443705d7b7_80835744 (Smarty_Internal_Template $_smarty_tpl) {
 echo $_smarty_tpl->tpl_vars['header']->value;?>
 
 <?php echo $_smarty_tpl->tpl_vars['page']->value;?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-11 22:54:00
+/* Smarty version 4.3.4, created on 2025-06-12 23:18:38
   from 'module:ps_specialsviewstemplateshookps_specials.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6849ece8bcb472_20101236',
+  'unifunc' => 'content_684b442ebd5fc1_47918847',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_6849ece8bcb472_20101236 (Smarty_Internal_Template $_smarty_tpl) {
+function content_684b442ebd5fc1_47918847 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">

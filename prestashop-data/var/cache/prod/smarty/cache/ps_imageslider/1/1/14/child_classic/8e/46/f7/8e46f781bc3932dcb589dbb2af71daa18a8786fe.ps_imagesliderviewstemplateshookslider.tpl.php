@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-11 23:00:10
+/* Smarty version 4.3.4, created on 2025-06-12 23:18:38
   from 'module:ps_imagesliderviewstemplateshookslider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6849ee5acb2f54_68514871',
+  'unifunc' => 'content_684b442e5c3357_88166870',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_6849ee5acb2f54_68514871 (Smarty_Internal_Template $_smarty_tpl) {
+function content_684b442e5c3357_88166870 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
     <ol class="carousel-indicators">
@@ -27,7 +27,7 @@ function content_6849ee5acb2f54_68514871 (Smarty_Internal_Template $_smarty_tpl)
     <ul class="carousel-inner" role="listbox" aria-label="Pokaz slajdów">
               <li class="carousel-item active" role="option" aria-hidden="false">
           <a href="https://www.prestashop-project.org">            <figure>
-              <img src="http://localhost:8080/modules/ps_imageslider/images/5353977ffb5f8b7720b1d5868311fd8497d161b4_bmw-3-0-csl-gallery-02.jpg" alt="sample-1" loading="lazy" width="1110" height="340">
+              <img src="http://localhost:8080/modules/ps_imageslider/images/a3103d0b75835d2f7819116cb17371c60384fe11_wp5163722.jpg" alt="sample-1" loading="lazy" width="1110" height="340">
                               <figcaption class="caption">
                   <h2 class="display-1 text-uppercase"></h2>
                   <div class="caption-description"><h3>Najlepsze części i akcesoria motoryzacyjne w jednym miejscu</h3>
