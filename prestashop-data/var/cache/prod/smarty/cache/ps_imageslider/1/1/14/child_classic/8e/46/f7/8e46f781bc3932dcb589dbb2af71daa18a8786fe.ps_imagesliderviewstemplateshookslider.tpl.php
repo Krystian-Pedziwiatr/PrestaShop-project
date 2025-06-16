@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-12 23:18:38
+/* Smarty version 4.3.4, created on 2025-06-16 22:25:38
   from 'module:ps_imagesliderviewstemplateshookslider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_684b442e5c3357_88166870',
+  'unifunc' => 'content_68507dc2048935_69656402',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_684b442e5c3357_88166870 (Smarty_Internal_Template $_smarty_tpl) {
+function content_68507dc2048935_69656402 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
     <ol class="carousel-indicators">
@@ -31,7 +31,7 @@ function content_684b442e5c3357_88166870 (Smarty_Internal_Template $_smarty_tpl)
                               <figcaption class="caption">
                   <h2 class="display-1 text-uppercase"></h2>
                   <div class="caption-description"><h3>Najlepsze części i akcesoria motoryzacyjne w jednym miejscu</h3>
-<p><button>Przejrzyj ofertę</button></p></div>
+<p><a href="index.php?id_category=3&amp;controller=category" class="button-slider">Przejrzyj ofertę</a></p></div>
                 </figcaption>
                           </figure>
           </a>        </li>

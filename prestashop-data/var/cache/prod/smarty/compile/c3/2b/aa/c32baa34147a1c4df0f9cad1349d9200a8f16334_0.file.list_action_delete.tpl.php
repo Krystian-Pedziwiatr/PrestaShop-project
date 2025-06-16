@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-12 23:18:43
+/* Smarty version 4.3.4, created on 2025-06-16 22:04:17
   from '/var/www/html/admin516f36phnm6lye0xir7/themes/default/template/helpers/list/list_action_delete.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_684b4433cccfe9_94711301',
+  'unifunc' => 'content_685078c158d9e8_50241125',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_684b4433cccfe9_94711301 (Smarty_Internal_Template $_smarty_tpl) {
+function content_685078c158d9e8_50241125 (Smarty_Internal_Template $_smarty_tpl) {
 ?><a href="#"
    title="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['action']->value,'html','UTF-8' ));?>
 "

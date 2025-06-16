@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-12 23:18:39
+/* Smarty version 4.3.4, created on 2025-06-16 22:10:09
   from 'module:ps_linklistviewstemplateshooklinkblock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_684b442f0b61c2_36995966',
+  'unifunc' => 'content_68507a21737590_83385940',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,13 +18,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_684b442f0b61c2_36995966 (Smarty_Internal_Template $_smarty_tpl) {
+function content_68507a21737590_83385940 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
     'compiled_filepath' => '/var/www/html/var/cache/prod/smarty/compile/child_classiclayouts_layout_full_width_tpl/4c/16/e4/4c16e45b72e943070f422d6be62dde1190dadc9c_2.file.helpers.tpl.php',
     'uid' => '4c16e45b72e943070f422d6be62dde1190dadc9c',
-    'call_name' => 'smarty_template_function_renderLogo_836290515684b442ee04909_65815655',
+    'call_name' => 'smarty_template_function_renderLogo_1307954356685078a48d2ca7_23541713',
   ),
 ));
 ?><div class="col-md-6 links">
@@ -90,9 +90,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
                 id="link-cms-page-1-2"
                 class="cms-page-link"
                 href="http://localhost:8080/index.php?id_cms=1&amp;controller=cms"
-                title="Our terms and conditions of delivery"
+                title="Wysyłka Twojego zamówienia"
                             >
-              Delivery
+              Dostawa
             </a>
           </li>
                   <li>
@@ -100,19 +100,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
                 id="link-cms-page-2-2"
                 class="cms-page-link"
                 href="http://localhost:8080/index.php?id_cms=2&amp;controller=cms"
-                title="Legal notice"
+                title="Informacje prawne"
                             >
-              Legal Notice
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-cms-page-3-2"
-                class="cms-page-link"
-                href="http://localhost:8080/index.php?id_cms=3&amp;controller=cms"
-                title="Our terms and conditions of use"
-                            >
-              Terms and conditions of use
+              Informacje prawne
             </a>
           </li>
                   <li>
@@ -120,19 +110,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
                 id="link-cms-page-4-2"
                 class="cms-page-link"
                 href="http://localhost:8080/index.php?id_cms=4&amp;controller=cms"
-                title="Learn more about us"
+                title="Dowiedz się więcej o MotoShop24"
                             >
-              About us
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-cms-page-5-2"
-                class="cms-page-link"
-                href="http://localhost:8080/index.php?id_cms=5&amp;controller=cms"
-                title="Our secure payment mean"
-                            >
-              Secure payment
+              O nas
             </a>
           </li>
                   <li>
@@ -143,26 +123,6 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
                 title="Skorzystaj z formularza kontaktowego"
                             >
               Kontakt z nami
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-static-page-sitemap-2"
-                class="cms-page-link"
-                href="http://localhost:8080/index.php?controller=sitemap"
-                title="Zagubiłeś się? Znajdź to, czego szukasz!"
-                            >
-              Mapa strony
-            </a>
-          </li>
-                  <li>
-            <a
-                id="link-static-page-stores-2"
-                class="cms-page-link"
-                href="http://localhost:8080/index.php?controller=stores"
-                title=""
-                            >
-              Sklepy
             </a>
           </li>
               </ul>

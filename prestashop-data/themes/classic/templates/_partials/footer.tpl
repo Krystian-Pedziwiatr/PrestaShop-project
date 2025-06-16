@@ -45,9 +45,9 @@
       <div class="col-md-12">
         <p class="text-sm-center">
           {block name='copyright_link'}
-            <a href="https://www.prestashop-project.org/" target="_blank" rel="noopener noreferrer nofollow">
-              {l s='%copyright% %year% - Designed by Krystian Pędziwiatr' sprintf=['%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
-            </a>
+          <a href="https://github.com/Krystian-Pedziwiatr" target="_blank" rel="noopener noreferrer nofollow">
+            {l s='%copyright% %year% - Projekt i realizacja Krystian Pędziwiatr' sprintf=['%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+          </a>          
           {/block}
         </p>
       </div>

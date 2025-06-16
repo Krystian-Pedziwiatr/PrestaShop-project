@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-12 23:18:38
+/* Smarty version 4.3.4, created on 2025-06-16 22:12:03
   from 'module:ps_customtextps_customtext.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_684b442eb46f42_82586106',
+  'unifunc' => 'content_68507a9361ac95_49990494',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,12 +18,15 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_684b442eb46f42_82586106 (Smarty_Internal_Template $_smarty_tpl) {
+function content_68507a9361ac95_49990494 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="custom-text">
-  <h2>Custom Text Block</h2>
-<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
-<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+  
+<p><strong>motoshop24.pl</strong> to sklep internetowy, który oferuje szeroki wybór części zamiennych do samochodów osobowych i dostawczych – w cenach nawet do <strong>45% niższych</strong> niż w tradycyjnych sklepach motoryzacyjnych!</p>
+<p>Dzięki współpracy z zaufanymi dostawcami i bezpośrednim kanałom dystrybucji zapewniamy atrakcyjne ceny, szybką wysyłkę i fachowe wsparcie na każdym etapie zakupów.</p>
+<p>W naszej ofercie znajdziesz części i akcesoria od najbardziej renomowanych producentów, takich jak:<br /><em>Bosch, Valeo, TRW, Filtron, Sachs, KYB, Delphi, LUK, INA, Brembo, ATE, Febi, SKF, Monroe, Denso, NGK, Castrol, Mobil, Motul, Valvoline, Varta, Exide, Gates, Magneti Marelli, Lemforder, Hengst, Pierburg</em> i wielu innych.</p>
+<p>Niezależnie od tego, czy szukasz klocków hamulcowych, filtrów, elementów zawieszenia czy oleju silnikowego – u nas znajdziesz wszystko, czego potrzebuje Twój samochód, w jednym miejscu i w doskonałej cenie.</p>
+
 </div>
 <?php }
 }
