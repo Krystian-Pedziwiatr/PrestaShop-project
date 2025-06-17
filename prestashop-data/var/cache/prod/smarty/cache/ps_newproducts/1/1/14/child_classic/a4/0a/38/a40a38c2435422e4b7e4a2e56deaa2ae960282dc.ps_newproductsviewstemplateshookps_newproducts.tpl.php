@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-16 22:03:48
+/* Smarty version 4.3.4, created on 2025-06-17 23:25:05
   from 'module:ps_newproductsviewstemplateshookps_newproducts.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_685078a4853852_51336110',
+  'unifunc' => 'content_6851dd31b36d48_84536464',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6851dd31b36d48_84536464 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">
@@ -47,17 +47,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 <div class="products">
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="19" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=1&amp;rewrite=hummingbird-printed-t-shirt&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=19&amp;rewrite=customizable-mug&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/5/25-home_default.jpg"
-                  alt="BREMBO Tarcza hamulcowa Xtra 1szt. wentylowana"
+                  src="http://localhost:8080/img/p/4/3/43-home_default.jpg"
+                  alt="NRF Chłodnica oleju autom. skrzyni biegów 310075"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/5/25-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/4/3/43-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -79,20 +79,16 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=1&amp;rewrite=hummingbird-printed-t-shirt&amp;controller=product" content="http://localhost:8080/index.php?id_product=1&amp;rewrite=hummingbird-printed-t-shirt&amp;controller=product">BREMBO Tarcza hamulcowa...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=19&amp;rewrite=customizable-mug&amp;controller=product" content="http://localhost:8080/index.php?id_product=19&amp;rewrite=customizable-mug&amp;controller=product">NRF Chłodnica oleju autom....</a></h3>
                   
 
         
                       <div class="product-price-and-shipping">
-                              
-
-                <span class="regular-price" aria-label="Cena podstawowa">2 800,00 zł</span>
-                                  <span class="discount-percentage discount-product">-20%</span>
-                              
+              
               
 
               <span class="price" aria-label="Cena">
-                                                  2 240,00 zł
+                                                  4 500,00 zł
                               </span>
 
               
@@ -103,7 +99,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="1" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="19" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
@@ -113,7 +109,6 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       
     <ul class="product-flags js-product-flags">
-                    <li class="product-flag discount">-20%</li>
                     <li class="product-flag new">Nowy</li>
             </ul>
 
@@ -123,17 +118,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="18" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=2&amp;rewrite=brown-bear-printed-sweater&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=18&amp;rewrite=hummingbird-notebook&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/4/24-home_default.jpg"
-                  alt="VARTA Akumulator 52Ah 470A P+ (rozruchowy)"
+                  src="http://localhost:8080/img/p/4/2/42-home_default.jpg"
+                  alt="MAK Felga aluminiowa SUV/4x4 F8090VAQ35P"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/4/24-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/4/2/42-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -155,20 +150,16 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=2&amp;rewrite=brown-bear-printed-sweater&amp;controller=product" content="http://localhost:8080/index.php?id_product=2&amp;rewrite=brown-bear-printed-sweater&amp;controller=product">VARTA Akumulator 52Ah 470A...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=18&amp;rewrite=hummingbird-notebook&amp;controller=product" content="http://localhost:8080/index.php?id_product=18&amp;rewrite=hummingbird-notebook&amp;controller=product">MAK Felga aluminiowa...</a></h3>
                   
 
         
                       <div class="product-price-and-shipping">
-                              
-
-                <span class="regular-price" aria-label="Cena podstawowa">275,00 zł</span>
-                                  <span class="discount-percentage discount-product">-20%</span>
-                              
+              
               
 
               <span class="price" aria-label="Cena">
-                                                  220,00 zł
+                                                  745,00 zł
                               </span>
 
               
@@ -179,7 +170,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="2" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="18" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
@@ -189,7 +180,6 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       
     <ul class="product-flags js-product-flags">
-                    <li class="product-flag discount">-20%</li>
                     <li class="product-flag new">Nowy</li>
             </ul>
 
@@ -199,17 +189,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="17" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=3&amp;rewrite=the-best-is-yet-to-come-framed-poster&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=17&amp;rewrite=brown-bear-notebook&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/6/26-home_default.jpg"
-                  alt="DĘBICA Opona letnia Presto HP2 205/60R16 92H"
+                  src="http://localhost:8080/img/p/4/1/41-home_default.jpg"
+                  alt="OGNIOCHRON Gaśnica proszkowa - 2KG"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/6/26-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/4/1/41-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -231,7 +221,149 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=3&amp;rewrite=the-best-is-yet-to-come-framed-poster&amp;controller=product" content="http://localhost:8080/index.php?id_product=3&amp;rewrite=the-best-is-yet-to-come-framed-poster&amp;controller=product">DĘBICA Opona letnia Presto...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=17&amp;rewrite=brown-bear-notebook&amp;controller=product" content="http://localhost:8080/index.php?id_product=17&amp;rewrite=brown-bear-notebook&amp;controller=product">OGNIOCHRON Gaśnica...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Cena">
+                                                  89,00 zł
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="17" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">Nowy</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="16" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="http://localhost:8080/index.php?id_product=16&amp;rewrite=mountain-fox-notebook&amp;controller=product" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="http://localhost:8080/img/p/4/0/40-home_default.jpg"
+                  alt="OXFORD Apteczka pierwszej pomocy"
+                  loading="lazy"
+                  data-full-size-image-url="http://localhost:8080/img/p/4/0/40-large_default.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=16&amp;rewrite=mountain-fox-notebook&amp;controller=product" content="http://localhost:8080/index.php?id_product=16&amp;rewrite=mountain-fox-notebook&amp;controller=product">OXFORD Apteczka pierwszej...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Cena">
+                                                  98,00 zł
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="16" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">Nowy</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="15" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="http://localhost:8080/index.php?id_product=15&amp;rewrite=pack-mug-framed-poster&amp;controller=product" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="http://localhost:8080/img/p/3/9/39-home_default.jpg"
+                  alt="SHINY GARAGE Zestaw do mycia, do pielęgnacji Starter Kit SG-STAK"
+                  loading="lazy"
+                  data-full-size-image-url="http://localhost:8080/img/p/3/9/39-large_default.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=15&amp;rewrite=pack-mug-framed-poster&amp;controller=product" content="http://localhost:8080/index.php?id_product=15&amp;rewrite=pack-mug-framed-poster&amp;controller=product">SHINY GARAGE Zestaw do...</a></h3>
                   
 
         
@@ -251,7 +383,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="3" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="15" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
@@ -262,6 +394,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
       
     <ul class="product-flags js-product-flags">
                     <li class="product-flag new">Nowy</li>
+                    <li class="product-flag pack">Pakiet</li>
             </ul>
 
     </div>
@@ -270,17 +403,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="14" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=4&amp;rewrite=the-adventure-begins-framed-poster&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=14&amp;rewrite=hummingbird-vector-graphics&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/7/27-home_default.jpg"
-                  alt="PROMILER Alkomat elektrochemiczny"
+                  src="http://localhost:8080/img/p/3/8/38-home_default.jpg"
+                  alt="NOCO Prostownik GENIUS5EU 6/12V 5A"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/7/27-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/3/8/38-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -302,7 +435,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=4&amp;rewrite=the-adventure-begins-framed-poster&amp;controller=product" content="http://localhost:8080/index.php?id_product=4&amp;rewrite=the-adventure-begins-framed-poster&amp;controller=product">PROMILER Alkomat...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=14&amp;rewrite=hummingbird-vector-graphics&amp;controller=product" content="http://localhost:8080/index.php?id_product=14&amp;rewrite=hummingbird-vector-graphics&amp;controller=product">NOCO Prostownik GENIUS5EU...</a></h3>
                   
 
         
@@ -311,7 +444,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
               
 
               <span class="price" aria-label="Cena">
-                                                  233,00 zł
+                                                  419,00 zł
                               </span>
 
               
@@ -322,7 +455,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="4" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="14" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
@@ -341,17 +474,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="13" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=5&amp;rewrite=today-is-a-good-day-framed-poster&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=13&amp;rewrite=brown-bear-vector-graphics&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/8/28-home_default.jpg"
-                  alt="MIO Wideorejestrator Mio MiVue C545 Pro kąt widzenia 140° format wideo MP4"
+                  src="http://localhost:8080/img/p/3/7/37-home_default.jpg"
+                  alt="EIBACH Sprężyny obniżające 4 szt. Pro-Kit"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/8/28-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/3/7/37-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -373,7 +506,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=5&amp;rewrite=today-is-a-good-day-framed-poster&amp;controller=product" content="http://localhost:8080/index.php?id_product=5&amp;rewrite=today-is-a-good-day-framed-poster&amp;controller=product">MIO Wideorejestrator Mio...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=13&amp;rewrite=brown-bear-vector-graphics&amp;controller=product" content="http://localhost:8080/index.php?id_product=13&amp;rewrite=brown-bear-vector-graphics&amp;controller=product">EIBACH Sprężyny obniżające...</a></h3>
                   
 
         
@@ -382,7 +515,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
               
 
               <span class="price" aria-label="Cena">
-                                                  329,00 zł
+                                                  909,00 zł
                               </span>
 
               
@@ -393,7 +526,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="5" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="13" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
@@ -412,17 +545,17 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0">
+  <article class="product-miniature js-product-miniature" data-id-product="12" data-id-product-attribute="0">
     <div class="thumbnail-container">
       <div class="thumbnail-top">
         
-                      <a href="http://localhost:8080/index.php?id_product=6&amp;rewrite=mug-the-best-is-yet-to-come&amp;controller=product" class="thumbnail product-thumbnail">
+                      <a href="http://localhost:8080/index.php?id_product=12&amp;rewrite=mountain-fox-vector-graphics&amp;controller=product" class="thumbnail product-thumbnail">
               <picture>
                                                 <img
-                  src="http://localhost:8080/img/p/2/9/29-home_default.jpg"
-                  alt="VALVOLINE Olej silnikowy 5W40 5l SYNPOWER 872382"
+                  src="http://localhost:8080/img/p/3/4/34-home_default.jpg"
+                  alt="CUSTO POL Nakładka na siedzenie, kolor szary"
                   loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/2/9/29-large_default.jpg"
+                  data-full-size-image-url="http://localhost:8080/img/p/3/4/34-large_default.jpg"
                   width="250"
                   height="250"
                 />
@@ -444,7 +577,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
       <div class="product-description">
         
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=6&amp;rewrite=mug-the-best-is-yet-to-come&amp;controller=product" content="http://localhost:8080/index.php?id_product=6&amp;rewrite=mug-the-best-is-yet-to-come&amp;controller=product">VALVOLINE Olej silnikowy...</a></h3>
+                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=12&amp;rewrite=mountain-fox-vector-graphics&amp;controller=product" content="http://localhost:8080/index.php?id_product=12&amp;rewrite=mountain-fox-vector-graphics&amp;controller=product">CUSTO POL Nakładka na...</a></h3>
                   
 
         
@@ -453,7 +586,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
               
 
               <span class="price" aria-label="Cena">
-                                                  169,00 zł
+                                                  180,00 zł
                               </span>
 
               
@@ -464,149 +597,7 @@ function content_685078a4853852_51336110 (Smarty_Internal_Template $_smarty_tpl)
 
         
           
-<div class="product-list-reviews" data-id="6" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-        
-      </div>
-
-      
-    <ul class="product-flags js-product-flags">
-                    <li class="product-flag new">Nowy</li>
-            </ul>
-
-    </div>
-  </article>
-</div>
-
-            
-<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0">
-    <div class="thumbnail-container">
-      <div class="thumbnail-top">
-        
-                      <a href="http://localhost:8080/index.php?id_product=7&amp;rewrite=mug-the-adventure-begins&amp;controller=product" class="thumbnail product-thumbnail">
-              <picture>
-                                                <img
-                  src="http://localhost:8080/img/p/3/0/30-home_default.jpg"
-                  alt="NEOLUX Żarówka xenon D1S (1 szt.) 4250K"
-                  loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/3/0/30-large_default.jpg"
-                  width="250"
-                  height="250"
-                />
-              </picture>
-            </a>
-                  
-
-        <div class="highlighted-informations no-variants">
-          
-            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
-              <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
-            </a>
-          
-
-          
-                      
-        </div>
-      </div>
-
-      <div class="product-description">
-        
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=7&amp;rewrite=mug-the-adventure-begins&amp;controller=product" content="http://localhost:8080/index.php?id_product=7&amp;rewrite=mug-the-adventure-begins&amp;controller=product">NEOLUX Żarówka xenon D1S (1...</a></h3>
-                  
-
-        
-                      <div class="product-price-and-shipping">
-              
-              
-
-              <span class="price" aria-label="Cena">
-                                                  149,00 zł
-                              </span>
-
-              
-
-              
-            </div>
-                  
-
-        
-          
-<div class="product-list-reviews" data-id="7" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-        
-      </div>
-
-      
-    <ul class="product-flags js-product-flags">
-                    <li class="product-flag new">Nowy</li>
-            </ul>
-
-    </div>
-  </article>
-</div>
-
-            
-<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
-  <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0">
-    <div class="thumbnail-container">
-      <div class="thumbnail-top">
-        
-                      <a href="http://localhost:8080/index.php?id_product=8&amp;rewrite=mug-today-is-a-good-day&amp;controller=product" class="thumbnail product-thumbnail">
-              <picture>
-                                                <img
-                  src="http://localhost:8080/img/p/3/2/32-home_default.jpg"
-                  alt="BOSCH Filtr kabiny 0 986 628 643"
-                  loading="lazy"
-                  data-full-size-image-url="http://localhost:8080/img/p/3/2/32-large_default.jpg"
-                  width="250"
-                  height="250"
-                />
-              </picture>
-            </a>
-                  
-
-        <div class="highlighted-informations no-variants">
-          
-            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
-              <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
-            </a>
-          
-
-          
-                      
-        </div>
-      </div>
-
-      <div class="product-description">
-        
-                      <h3 class="h3 product-title"><a href="http://localhost:8080/index.php?id_product=8&amp;rewrite=mug-today-is-a-good-day&amp;controller=product" content="http://localhost:8080/index.php?id_product=8&amp;rewrite=mug-today-is-a-good-day&amp;controller=product">BOSCH Filtr kabiny 0 986...</a></h3>
-                  
-
-        
-                      <div class="product-price-and-shipping">
-              
-              
-
-              <span class="price" aria-label="Cena">
-                                                  87,00 zł
-                              </span>
-
-              
-
-              
-            </div>
-                  
-
-        
-          
-<div class="product-list-reviews" data-id="8" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
+<div class="product-list-reviews" data-id="12" data-url="http://localhost:8080/index.php?fc=module&module=productcomments&controller=CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>

@@ -66,3 +66,22 @@
 .h3 product-title{
     color: black;
 }
+
+.btn,
+.btn-primary,
+.btn-default,
+.btn-secondary {
+  border-radius: 10px !important;
+}
+
+.btn-primary:hover {
+    border-radius: 10px !important;
+}
+
+.product-miniature .thumbnail-container {
+    border-radius: 10px !important;
+}
+
+#custom-text {
+    border-radius: 10px !important;
+}
