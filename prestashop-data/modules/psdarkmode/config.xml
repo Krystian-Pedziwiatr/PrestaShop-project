@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>psdarkmode</name>
+  <displayName>Dark Mode Toggle</displayName>
+  <version>1.0.0</version>
+  <description>Dodaje przycisk zmiany trybu jasnego/ciemnego w nagłówku sklepu.</description>
+  <author>Krystian Pędziwiatr</author>
+  <tab>front_office_features</tab>
+</module>

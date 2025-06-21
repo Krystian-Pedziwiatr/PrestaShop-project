@@ -1,0 +1,108 @@
+/* Kontener przełącznika trybu ciemnego */
+.dark-mode-switch {
+  display: inline-block;
+  margin-left: 10px;
+  color: #121212;
+}
+
+/* Styl przycisku */
+.btn-darkmode {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  color: inherit;
+}
+
+
+
+/* Efekt hover/focus na przycisku */
+.btn-darkmode:hover,
+.btn-darkmode:focus {
+  filter: brightness(0.7);
+  outline: none;
+}
+
+/* Stylowanie body z trybem ciemnym */
+body.dark-theme {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+/* Tło i tekst w trybie ciemnym dla wybranych elementów */
+body.dark-theme #wrapper,
+body.dark-theme #header .header-top,
+body.dark-theme #footer,
+body.dark-theme #header .header-nav,
+body.dark-theme #blockEmailSubscription_displayFooterBefore,
+body.dark-theme #custom-text,
+body.dark-theme .header-nav .blockcart,
+body.dark-theme #block_myaccount_infos .myaccount-title a {
+  background-color: #121212 !important;
+  color: #f1f1f1 !important;
+}
+
+/* Teksty i ikony w prawym górnym menu desktop */
+body.dark-theme #_desktop_user_info,
+body.dark-theme #_desktop_user_info a,
+body.dark-theme #_desktop_user_info .user-info,
+body.dark-theme #_desktop_user_info .user-info span,
+body.dark-theme #_desktop_user_info .user-info i {
+  color: #ffffff !important;
+}
+
+/* Teksty w stopce i nagłówku w trybie ciemnym */
+body.dark-theme #footer .block_newsletter #block-newsletter-label,
+body.dark-theme .customization-modal .modal-content .modal-body,
+body.dark-theme #footer .footer-container .h3,
+body.dark-theme .footer-container .h4,
+body.dark-theme #header .header-top a[data-depth="0"] {
+  color: white;
+}
+
+/* Teksty na stronach CMS */
+body.dark-theme #custom-text .page-content.page-cms ul,
+body.dark-theme #custom-text p,
+body.dark-theme .page-content.page-cms #custom-text ul {
+  font-size: .875rem;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+/* Kolory tła dla nagłówka, stopki i nawigacji */
+body.dark-theme .header,
+body.dark-theme .footer,
+body.dark-theme .nav {
+  background-color: #1e1e1e !important;
+}
+
+/* Ikony material-icons w header-nav w trybie ciemnym */
+body.dark-theme #header .header-nav .material-icons {
+  line-height: inherit;
+  color: white;
+}
+
+/* Nagłówki i body tekst w trybie ciemnym */
+body.dark-theme h1,
+body.dark-theme h2,
+body.dark-theme h3,
+body.dark-theme h4,
+body.dark-theme body {
+  color: white;
+}
+
+/* Poprawka koloru tekstów, które były czarne - na biały w ciemnym trybie */
+body.dark-theme #footer .block_newsletter #block-newsletter-label,
+body.dark-theme .customization-modal .modal-content .modal-body,
+body.dark-theme #footer .footer-container .h3,
+body.dark-theme .footer-container .h4,
+body.dark-theme #header .header-top a[data-depth="0"] {
+  color: white;
+}
+
+/* Dodatkowy styl tła karuzeli na mobilnych */
+@media (max-width:991px) {
+  body.dark-theme .carousel {
+    background-color: #121212 !important;
+  }
+}

@@ -85,3 +85,15 @@
 #custom-text {
     border-radius: 10px !important;
 }
+
+.top-menu .sub-menu, .top-menu .sub-menu.collapse {
+    border-radius: 10px !important;
+}
+
+#mobile_top_menu_wrapper .top-menu .sub-menu ul[data-depth="1"], .group-span-filestyle label, .page-order-detail #order-infos ul, body#checkout section.checkout-step hr {
+    margin-left: 96px;
+}
+
+#mobile_top_menu_wrapper .top-menu .sub-menu {
+    overflow: unset;
+}
