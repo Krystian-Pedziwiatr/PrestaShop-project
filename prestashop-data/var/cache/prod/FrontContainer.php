@@ -968,6 +968,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 62 => 'graphnvd3',
                 63 => 'ps_facetedsearch',
                 64 => 'psdarkmode',
+                65 => 'pscustomstyle',
             ],
             'ps_cache_dir' => '/var/www/html/var/cache/prod/',
             'mail_themes_uri' => '/mails/themes',
