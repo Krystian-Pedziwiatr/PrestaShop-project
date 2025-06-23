@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     mobileSettingsContainer.innerHTML = `
       <div id="custom-style-menu-mobile" class="custom-style-container">
         <button class="btn-style-toggle" onclick="toggleStyleMenu('mobile')" aria-label="Ustawienia wyglądu">
-          <img src="modules/pscustomstyle/views/img/settings-black-logo.svg" id="settings-icon-mobile" alt="Style" width="24" height="24">
+          <img src="modules/pscustomstyle/views/img/settings-black-logo.svg" id="settings-icon-mobile" alt="Style" width="20" height="20">
         </button>
 
         <div id="style-dropdown-mobile" class="style-dropdown hidden">
@@ -164,6 +164,7 @@ function loadCustomColors() {
 
 document.addEventListener('DOMContentLoaded', () => {
   // Załaduj styl tekstu
+  loadCustomColors();
   if (localStorage.getItem('largeTextEnabled') === 'true') {
     document.body.classList.add('large-text');
   }
@@ -232,6 +233,5 @@ function resetStyleSettings() {
     }
   });
 
-  // (Opcjonalnie) przywróć domyślny motyw (jeśli masz jakąś wersję startową)
-  // setColorTheme('default');
+  
 }

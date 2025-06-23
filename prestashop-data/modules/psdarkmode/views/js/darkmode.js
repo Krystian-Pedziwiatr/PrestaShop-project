@@ -47,7 +47,16 @@ function updateIcons() {
       : 'modules/psdarkmode/views/img/settings-black-logo.svg';
     settingsIcon.alt = 'Ustawienia stylu';
   }
+
+  const settingsIconMobile = document.getElementById('settings-icon-mobile');
+  if (settingsIconMobile) {
+    settingsIconMobile.src = isDark
+      ? 'modules/psdarkmode/views/img/settings-white-logo.svg'
+      : 'modules/psdarkmode/views/img/settings-black-logo.svg';
+    settingsIconMobile.alt = 'Ustawienia stylu';
+  }
 }
+
 
 
 
