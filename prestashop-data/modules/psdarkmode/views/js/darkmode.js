@@ -22,23 +22,34 @@ function toggleLogo() {
 
 
 function updateIcons() {
-  // Obsługa obu ikon: desktop i mobile
-  const icons = [
-    document.getElementById('darkmode-icon'),
-    document.getElementById('darkmode-icon-mobile')
-  ];
+  const isDark = document.body.classList.contains('dark-theme');
 
-  icons.forEach(icon => {
-    if (!icon) return;
-    if (document.body.classList.contains('dark-theme')) {
-      icon.src = 'modules/psdarkmode/views/img/sun.svg';
-      icon.alt = 'Tryb jasny';
-    } else {
-      icon.src = 'modules/psdarkmode/views/img/moon.svg';
-      icon.alt = 'Tryb ciemny';
-    }
-  });
+  const darkmodeIcon = document.getElementById('darkmode-icon');
+  if (darkmodeIcon) {
+    darkmodeIcon.src = isDark
+      ? 'modules/psdarkmode/views/img/sun.svg'
+      : 'modules/psdarkmode/views/img/moon.svg';
+    darkmodeIcon.alt = isDark ? 'Tryb jasny' : 'Tryb ciemny';
+  }
+
+  const darkmodeIconMobile = document.getElementById('darkmode-icon-mobile');
+  if (darkmodeIconMobile) {
+    darkmodeIconMobile.src = isDark
+      ? 'modules/psdarkmode/views/img/sun.svg'
+      : 'modules/psdarkmode/views/img/moon.svg';
+    darkmodeIconMobile.alt = isDark ? 'Tryb jasny' : 'Tryb ciemny';
+  }
+
+  const settingsIcon = document.getElementById('settings-icon');
+  if (settingsIcon) {
+    settingsIcon.src = isDark
+      ? 'modules/psdarkmode/views/img/settings-white-logo.svg'
+      : 'modules/psdarkmode/views/img/settings-black-logo.svg';
+    settingsIcon.alt = 'Ustawienia stylu';
+  }
 }
+
+
 
 function toggleDarkMode() {
   document.body.classList.toggle('dark-theme');

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-06-21 18:02:40
+/* Smarty version 4.3.4, created on 2025-06-23 21:23:41
   from '/var/www/html/modules/psdarkmode/views/templates/hook/displayNav2.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6856d7a0e7a967_59827160',
+  'unifunc' => 'content_6859a9bdeb3de7_04050989',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6856d7a0e7a967_59827160 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6859a9bdeb3de7_04050989 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="dark-mode-toggle" class="dark-mode-switch">
   <button aria-label="Zmień motyw" class="btn btn-darkmode" onclick="toggleDarkMode()">
