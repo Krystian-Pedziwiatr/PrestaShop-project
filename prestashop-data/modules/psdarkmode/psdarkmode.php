@@ -27,7 +27,6 @@ class Psdarkmode extends Module
         return parent::install()
             && $this->registerHook('displayNav2')
             && $this->registerHook('displayHeader');
-            // Usunięto displayDarkModeToggleMobile, bo nie będzie wykorzystywany
     }
 
     public function uninstall()
